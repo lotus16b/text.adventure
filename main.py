@@ -1,5 +1,5 @@
 ### Text Adventure 
-print("You have been recruited by the Star League to defend the Frontier against Xur and th Ko-Dan Armada!")
+print("You have been recruited by the Star League to defend the Frontier against Xur and the Ko-Dan Armada!")
 print("Are you ready player one?")
 print("If ready, take the blue pill. If you are not ready, take the red pill.")
 

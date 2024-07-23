@@ -36,3 +36,5 @@ else:
     print(f"You have {len(equipment)} items in your equipment list.")
     print("Here is a list of your equipment for fighting Xur:")
     print(', '.join(sorted(equipment)))
+    print("The most important item on your list is:")
+    print(equipment[3:])
